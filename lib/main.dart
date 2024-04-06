@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:untitled/screens/first.dart';
+import 'package:untitled/first.dart';
 
 
 
