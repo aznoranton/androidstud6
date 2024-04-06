@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:untitled/screens/second.dart';
-import 'package:untitled/screens/first.dart';
-import 'package:untitled/screens/fourth.dart';
-import 'package:untitled/screens/fifth.dart';
+import 'package:untitled/second.dart';
+import 'package:untitled/first.dart';
+import 'package:untitled/fourth.dart';
+import 'package:untitled/fifth.dart';
 
 class ThirdScreen extends StatelessWidget {
   const ThirdScreen({Key? key}) : super(key: key);
